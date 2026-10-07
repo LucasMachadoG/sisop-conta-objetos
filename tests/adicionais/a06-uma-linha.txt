@@ -1,0 +1,4 @@
+# A6 - Uma unica linha (mais blocos pedidos do que linhas)
+# esperado: 7
+1 20
+1 0 1 1 0 0 1 0 1 1 1 0 0 0 1 0 1 1 0 1

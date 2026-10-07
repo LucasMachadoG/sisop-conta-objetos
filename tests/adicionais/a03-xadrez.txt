@@ -1,0 +1,12 @@
+# A3 - Tabuleiro de xadrez: conexoes somente diagonais
+# esperado: 1
+9 9
+1 0 1 0 1 0 1 0 1
+0 1 0 1 0 1 0 1 0
+1 0 1 0 1 0 1 0 1
+0 1 0 1 0 1 0 1 0
+1 0 1 0 1 0 1 0 1
+0 1 0 1 0 1 0 1 0
+1 0 1 0 1 0 1 0 1
+0 1 0 1 0 1 0 1 0
+1 0 1 0 1 0 1 0 1

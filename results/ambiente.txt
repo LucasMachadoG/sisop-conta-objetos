@@ -1,0 +1,9 @@
+data: 2026-10-06 19:52:26
+sistema: Linux 6.8.0-138-generic aarch64
+processador: Apple
+processadores logicos: 4
+memoria: 4000488 kB
+compilador: cc (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+matriz: 8000 x 8000, densidade 0.30, semente 2026
+repeticoes: 10 por configuracao, intercaladas (+1 aquecimento descartado)
+threads: 1 2 3 4 6 8

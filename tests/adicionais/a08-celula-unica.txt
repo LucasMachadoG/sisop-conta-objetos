@@ -1,0 +1,4 @@
+# A8 - Matriz 1x1 com valor 1
+# esperado: 1
+1 1
+1

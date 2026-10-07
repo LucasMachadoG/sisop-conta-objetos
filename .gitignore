@@ -1,0 +1,8 @@
+# Executaveis gerados pelo make
+conta-objetos-sequencial
+conta-objetos-paralelo
+gera-matriz
+*-tsan
+*-asan
+__pycache__/
+.DS_Store

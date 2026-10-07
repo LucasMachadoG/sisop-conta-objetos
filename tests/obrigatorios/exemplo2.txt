@@ -1,0 +1,9 @@
+# Exemplo 2 - Objeto atravessando fronteiras horizontais e verticais
+# esperado: 4
+6 8
+0 0 0 0 0 0 1 1
+0 1 1 1 1 0 1 0
+0 0 1 1 0 0 0 0
+0 0 0 1 1 0 0 0
+0 0 0 0 1 0 0 1
+1 1 0 0 0 0 1 1

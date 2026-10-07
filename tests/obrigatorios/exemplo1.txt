@@ -1,0 +1,8 @@
+# Exemplo 1 - Identificacao basica
+# esperado: 3
+5 5
+1 1 0 0 0
+1 1 0 0 0
+0 0 0 1 0
+0 0 0 1 0
+1 0 0 0 0

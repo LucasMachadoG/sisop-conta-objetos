@@ -1,0 +1,6 @@
+versao,trabalhadores,blocos,repeticoes,mediana_ms,q1_ms,q3_ms,min_ms,max_ms,aceleracao,eficiencia,todos_corretos
+sequencial,1,-,20,2.373,2.329,2.550,2.195,2.705,1.000,1.000,true
+paralela,1,2x2,20,2.409,2.344,2.545,2.296,2.776,0.985,0.985,true
+paralela,2,4x4,20,1.368,1.359,1.430,1.266,1.605,1.735,0.867,true
+paralela,4,8x8,20,0.851,0.843,0.884,0.830,1.096,2.788,0.697,true
+paralela,8,16x16,20,0.982,0.966,1.012,0.937,1.405,2.417,0.302,true
