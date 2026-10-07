@@ -3,7 +3,7 @@
 > **Disciplina:** Sistemas Operacionais - 2026/II  
 > **Professor:** Prof. Filipo Novo Mór  
 > **Instituição:** Pontifícia Universidade Católica do Rio Grande do Sul - Escola Politécnica  
-> **Repositório:** [URL pública do repositório](https://github.com/USUARIO/REPOSITORIO) <!-- PREENCHER -->  
+> **Repositório:** [github.com/LucasMachadoG/sisop-conta-objetos](https://github.com/LucasMachadoG/sisop-conta-objetos)  
 > **Versão do relatório:** 1.0  
 > **Data:** 06/10/2026
 
@@ -19,7 +19,7 @@
 | Turma | 330 |
 | Estratégia paralela | Pthreads |
 | Plataforma testada | Linux (Ubuntu 22.04 aarch64 e Ubuntu 24.04 x86_64) |
-| Commit avaliado | [`HASH_DO_COMMIT`] <!-- PREENCHER após o commit final --> |
+| Commit avaliado | [`4be39fd`](https://github.com/LucasMachadoG/sisop-conta-objetos/commit/4be39fddfabf8aa97561aacdb36fcee57b00dab9) |
 
 ## Resumo
 
@@ -660,7 +660,7 @@ O principal aprendizado foi que a dificuldade do paralelismo neste problema não
 |---|---|
 | Plataforma | Google Drive |
 | Link privado ou não listado | https://drive.google.com/file/d/1zrAf_CxVh0RlQznivI13h1ueHDmUDO57/view?usp=sharing |
-| Duração | [MM:SS - máximo de 10 minutos] |
+| Duração | 13 min (aproximadamente) |
 | Privacidade | Qualquer pessoa com o link pode visualizar |
 | Senha, se aplicável | Não se aplica |
 | Data da última verificação do acesso | 06/10/2026 |
@@ -669,15 +669,15 @@ O principal aprendizado foi que a dificuldade do paralelismo neste problema não
 
 ### 13.1 Conteúdo do vídeo
 
-- [ ] Problema e estratégia escolhida.
-- [ ] Implementação sequencial e referência de correção.
-- [ ] Decomposição, processos/threads e sincronização.
-- [ ] Consolidação de objetos que atravessam regiões.
-- [ ] Demonstração executável.
-- [ ] Testes obrigatórios e adicionais.
-- [ ] Resultados de desempenho.
-- [ ] Conclusões.
-- [ ] Participação de ambos os integrantes, quando o trabalho for em dupla.
+- [x] Problema e estratégia escolhida.
+- [x] Implementação sequencial e referência de correção.
+- [x] Decomposição, processos/threads e sincronização.
+- [x] Consolidação de objetos que atravessam regiões.
+- [x] Demonstração executável.
+- [x] Testes obrigatórios e adicionais.
+- [x] Resultados de desempenho.
+- [x] Conclusões.
+- [x] Participação de ambos os integrantes, quando o trabalho for em dupla.
 
 ## 14. Contribuições dos integrantes
 
@@ -736,7 +736,7 @@ Nenhum trecho de código externo foi copiado, e nenhuma biblioteca de terceiros 
 
 ### Repositório e apresentação
 
-- [ ] O repositório do GitHub está público.
+- [x] O repositório do GitHub está público.
 - [x] `README.md` contém descrição, autoria, compilação, execução e arquitetura.
 - [x] O `Makefile` ou as instruções equivalentes permitem compilação reproduzível.
 - [x] As matrizes de teste e seus resultados estão incluídos.
@@ -744,7 +744,7 @@ Nenhum trecho de código externo foi copiado, e nenhuma biblioteca de terceiros 
 - [x] Os slides estão em `slides/apresentacao.pdf`.
 - [ ] O link do vídeo está acessível e o vídeo tem até 10 minutos.
 - [x] Ferramentas, referências, bibliotecas e códigos externos foram identificados.
-- [ ] O hash do commit avaliado foi registrado neste relatório.
+- [x] O hash do commit avaliado foi registrado neste relatório.
 
 ## Apêndice A - Registro de comandos
 
