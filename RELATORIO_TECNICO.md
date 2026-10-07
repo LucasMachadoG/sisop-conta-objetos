@@ -681,16 +681,18 @@ O principal aprendizado foi que a dificuldade do paralelismo neste problema não
 
 ## 14. Contribuições dos integrantes
 
+O desenvolvimento foi conduzido em conjunto pelos dois integrantes, que participaram das etapas principais do trabalho: definição da estratégia, implementação, testes, análise dos resultados e documentação. Para organizar as atividades, cada etapa teve um integrante como condutor principal, enquanto o outro acompanhou a implementação, discutiu as decisões de projeto e revisou o resultado.
+
 | Atividade | Lucas Gaelzer Machado | Stefan Chagas | Evidência/observação |
 |---|---|---|---|
-| Projeto da solução sequencial | Responsável | Revisão | `src/conta-objetos-sequencial.c`, `src/matriz.c` |
-| Projeto da solução paralela | Revisão | Responsável | `src/conta-objetos-paralelo.c` (decomposição e fila de blocos) |
-| Sincronização/comunicação | Revisão | Responsável | Mutexes, barreiras e tratamento de erros das chamadas POSIX (seção 6.4) |
-| Consolidação | Responsável | Revisão | Rótulos globais, fronteiras e union-find (seção 7) |
-| Testes e medições | Responsável | Revisão | `scripts/testar.sh`, `scripts/medir.sh`; medições executadas no MacBook Air M4 |
-| Documentação e apresentação | Revisão | Responsável | `README.md`, `RELATORIO_TECNICO.md`, `slides/apresentacao.pdf` |
+| Projeto da solução sequencial | Condução | Participação e revisão | `src/conta-objetos-sequencial.c`, `src/matriz.c` |
+| Projeto da solução paralela | Participação e revisão | Condução | `src/conta-objetos-paralelo.c` (decomposição e fila de blocos) |
+| Sincronização/comunicação | Participação e revisão | Condução | Mutexes, barreiras e tratamento de erros das chamadas POSIX (seção 6.4) |
+| Consolidação | Condução | Participação e revisão | Rótulos globais, fronteiras e union-find (seção 7) |
+| Testes e medições | Condução | Participação e revisão | `scripts/testar.sh`, `scripts/medir.sh`; medições executadas no MacBook Air M4 |
+| Documentação e apresentação | Participação e revisão | Condução | `README.md`, `RELATORIO_TECNICO.md`, `slides/apresentacao.pdf` |
 
-Os dois integrantes participaram da revisão de todas as partes. O uso de assistente de IA está descrito na seção 15.
+Ao longo do desenvolvimento, os integrantes utilizaram um assistente de IA (seção 15) como ferramenta de apoio. A IA foi empregada para revisar trechos de código, sugerir ajustes e melhorias, apoiar a elaboração de testes e validações, e auxiliar na organização do texto e no refinamento das explicações técnicas do relatório. As decisões de projeto, a definição da solução e a validação final permaneceram sob responsabilidade dos integrantes: as sugestões recebidas foram analisadas, adaptadas quando necessário e incorporadas somente após verificação pelos testes automatizados (seção 8) e pelas ferramentas de análise (seção 10.2).
 
 Todos os integrantes declaram compreender integralmente o código, as estruturas de dados, a divisão do trabalho, a sincronização, a comunicação, a consolidação e os resultados apresentados.
 
